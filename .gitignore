@@ -1,0 +1,18 @@
+# Dataset (download from Kaggle, see README.md) and the session files made from it
+data_final/
+
+# Outputs of the analysis
+results/
+baselines/runs/
+lstm/runs/
+comparison/runs/
+comparison/tuning/
+comparison/ga/
+
+# Model of the previous study (see README.md)
+baselines/model/*.joblib
+
+# Python
+__pycache__/
+*.pyc
+.venv/
